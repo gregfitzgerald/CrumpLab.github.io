@@ -23,17 +23,7 @@ Shiny Apps, R packages, and various things
 <div class="row">
 <div class="col-sm-8">
 
-#### [vertical](https://crumplab.github.io/vertical/)
-
 R-studio project template and workflow for sharing psychological research projects in the form of a website.
-
-</div>
-<div class="col-sm-4">
-```{r vertical, out.width=100, echo=F}
-knitr::include_graphics("images/vertical.png")
-```
-</div>
-</div>
 
 ----
 
@@ -44,15 +34,6 @@ knitr::include_graphics("images/vertical.png")
 
 R functions for creating semantic librarians, a tool for vectorizing and visualizing semantic spaces from text
 
-</div>
-<div class="col-sm-4">
-```{r rsl, out.width=100, echo=F}
-knitr::include_graphics("images/sl_hex.png")
-```
-</div>
-</div>
-
-----
 
 <div class="row">
 <div class="col-sm-8">
@@ -60,14 +41,6 @@ knitr::include_graphics("images/sl_hex.png")
 #### [jspsychr](https://crumplab.github.io/jspsychr/)
 
 Write and run jspsych experiments using R studio.
-
-</div>
-<div class="col-sm-4">
-```{r jspsychr, out.width=100, echo=F}
-knitr::include_graphics("images/jspsychr.png")
-```
-</div>
-</div>
 
 ----
 

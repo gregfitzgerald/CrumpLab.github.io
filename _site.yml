@@ -1,34 +1,28 @@
-name: "Crump Lab"
-cover-image: "/images/logo.png"
-description: "Human Cognition and Performance Lab"
+name: "Greg Fitzgerald"
+cover-image: "/images/photo_greg fitzgerald.jpg"
+description: "Hub for my research and writing"
 navbar:
-  title: "Crump Lab"
+  title: "Greg Fitzgerald"
   left:
-    - text: "People"
-      href: People.html
-    - text: "Publications"
-      href: Publications.html
-    - text: "Books/OER"
-      href: Books.html
-    - text: "Courses"
-      href: Courses.html
-    - text: "Apps"
-      href: Apps.html
-    - text: "Join The Lab"
-      href: Opportunities.html
-    - text: "Blog"
-      href: Blog.html
-    - text: "Fun"
-      href: Fun.html
-    - text: "R"
-      href: R.html
+    - text: "About Me"
+      href: aboutme.html
+    - text: "My research"
+      href: myresearch.html
+    - text: "Productivity"
+      href: productivty.html
+    - text: "Exercise"
+      href: exercise.html
+    - text: "Animal Welfare"
+      href: welfare.html
+    - text: "Literature"
+      href: literature.html
+    - text: "Art"
+      href: art.html
     - text: " "
       icon: fab fa-twitter
-      href: "https://twitter.com/MattCrump_"
+      href: "https://twitter.com/scribulanda"
     - text: ""
       icon: fab fa-github
-      href: "https://github.com/CrumpLab"
-    - text: ""
-      icon: fab fa-youtube
-      href: "https://www.youtube.com/channel/UCSaZ1htKwtZ1GuqI1xGjuSA?"
+      href: "https://github.com/gregfitzgerald"
+
 output_dir: "."
